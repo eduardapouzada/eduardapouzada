@@ -5,7 +5,7 @@
 
 <p align="left"> 
 👩🏻‍💻 - Oi! Eu me chamo Eduarda. <br>
-🎓 - Sou técnica em Informática <br>
+🎓 - Sou Técnica em Informática <br>
 💻 - E estudante de Sistemas de Informação (2/4) - FURG<br>
 </p>
 <div style="display: inline_block"><br>
