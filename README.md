@@ -21,11 +21,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardapouzada&theme=microsoft-dark&hide_border=falso&border_radius=11&locale=pt_BR&short_numbers=falso&card_width=800&card_height=200)](https://git.io/streak-stats)
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardapouzada/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardapouzada/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardapouzada/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p align="center">
 <strong>Entre em contato:</strong>
