@@ -12,6 +12,9 @@
  <br>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"><br>
+<img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"><br>
+<img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"><br>
+<img src="https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"><br>
  
 <p align="left">
 <strong>Entre em contato:</strong>
