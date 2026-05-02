@@ -1,8 +1,7 @@
-<div align="center">
 <table>
   <tr>
 
-<img src="assets/img.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="assets/img.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" padding-right="20px>
 
 <p align="left"> 
 👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
@@ -25,12 +24,11 @@
   <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardapouzada&theme=microsoft-dark&hide_border=falso&border_radius=11&locale=pt_BR&short_numbers=falso&card_width=800&card_height=200)](https://git.io/streak-stats)
 
-
+</div>
 
   </tr>
 </table>
-</div>
