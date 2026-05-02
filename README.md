@@ -1,4 +1,4 @@
-
+<div align="center">
 <img src="assets/img.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left" > 
@@ -25,6 +25,6 @@
   <a href = "mailto:eduarda.spouzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-
+</div>
 
 </div>
