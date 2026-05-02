@@ -24,5 +24,7 @@
   <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardapouzada&theme=white&locale=pt_BR)](https://git.io/streak-stats)
+
   </tr>
 </table>
