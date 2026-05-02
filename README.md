@@ -1,7 +1,7 @@
 <table>
   <tr>
 
-![alt](./img.png)
+![alt](assets/img.png)
 
 <p align="left"> 
 👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
