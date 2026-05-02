@@ -1,6 +1,6 @@
 <img src="assets/img.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p padding-left="10"> 
+<p padding-left="10px"> 
    👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
    🎓 - Sou Técnica em Informática <br>
    💻 - E estudante de Sistemas de Informação (3/4) - FURG<br>
