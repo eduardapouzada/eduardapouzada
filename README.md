@@ -1,4 +1,4 @@
-<table>
+<table widht="90%">
   <tr>
     <td>
 
