@@ -9,7 +9,7 @@
 💻 - E estudante de Sistemas de Informação (3/4) - FURG<br>
 </p>
 <div style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,git&perline=4" width="200"/>
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,git&perline=4" width="100"/>
    
   
 </div>
