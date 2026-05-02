@@ -1,5 +1,5 @@
 <p align="center">
-
+  <br><br>
   <img src="assets/img.png" alt="ilustração de um computador" width="320px" align="right">
 
   <br><br>
