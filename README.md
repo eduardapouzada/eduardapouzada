@@ -1,5 +1,3 @@
-<div align="center">
-
 <table>
   <tr>
 
@@ -12,8 +10,6 @@
 </p>
 <div style="display: inline_block" align="left"><br>
    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,git&perline=4" width="150"/>
-   
-  
 </div>
 <br>
 
@@ -27,15 +23,12 @@
 <p align="center">
 <strong>Entre em contato:</strong>
 </p>
-
 <p align="center">
   <a href = "mailto:eduarda.spouzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-  </tr>
+</tr>
 </table>
-
-
 
 </div>
