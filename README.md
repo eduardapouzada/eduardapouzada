@@ -18,7 +18,9 @@
 <br>
 
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardapouzada&theme=microsoft-dark&hide_border=falso&border_radius=11&locale=pt_BR&short_numbers=falso&card_width=800&card_height=200)](https://git.io/streak-stats)
+
 </div>
 
 
