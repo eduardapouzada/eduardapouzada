@@ -8,11 +8,6 @@
 🎓 - Sou Técnica em Informática <br>
 💻 - E estudante de Sistemas de Informação (3/4) - FURG<br>
 </p>
-<div style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,git&perline=4" width="150"/>
-   
-  
-</div>
 <br>
  <br>
 <p align="left">
