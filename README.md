@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background-color="yellow">
    <img src="assets/img.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
    
    <p align="left" > 
