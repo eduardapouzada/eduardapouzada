@@ -1,4 +1,4 @@
-<div align="center" background-color="yellow">
+<div align="center">
    
    <p> 
    👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
