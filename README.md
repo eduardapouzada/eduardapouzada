@@ -1,6 +1,6 @@
 <table width="800px">
   <tr>
-    <td align="center">
+    <td>
      <div aligh="right">
        👩🏻‍💻 - Olá! Eu me chamo Eduarda.<br>
        🎓 - Sou Técnica em Informática <br>
