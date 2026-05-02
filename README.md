@@ -15,15 +15,6 @@
 </div>
 <br>
  <br>
-<p align="left">
-<strong>Entre em contato:</strong>
-</p>
-
-<p align="left">
-  <a href = "mailto:eduarda.spouzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-
 <br>
 <div align="center">
 
@@ -36,5 +27,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="left">
+<strong>Entre em contato:</strong>
+</p>
+
+<p align="left">
+  <a href = "mailto:eduarda.spouzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
   </tr>
 </table>
