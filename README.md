@@ -1,5 +1,3 @@
-<table background="blue">
-  <tr>
 
 <img src="assets/img.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -28,7 +26,5 @@
   <a href="https://www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-</tr>
-</table>
 
 </div>
