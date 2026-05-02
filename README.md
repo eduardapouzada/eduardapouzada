@@ -1,4 +1,4 @@
-<table width="100%" bgcolor="#0d1117">
+<table width="800px">
   <tr>
     <td align="center">
      <div aligh="right">
