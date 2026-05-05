@@ -1,7 +1,7 @@
 <table>
   <tr>
 
-<img src="assets/img.png" alt="ilustração de um computador" width="430px" align="right">
+<img src="assets/img.png" alt="ilustração de um computador" width="410px" align="right">
 <br>
 <p align="left"> 
 👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
