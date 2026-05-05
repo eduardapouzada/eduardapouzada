@@ -1,8 +1,8 @@
 <table>
   <tr>
 
-<img src="assets/img.png" alt="ilustração de um computador" width="400px" align="right">
-<br><br>
+<img src="assets/img.png" alt="ilustração de um computador" width="430px" align="right">
+<br>
 <p align="left"> 
 👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
 🎓 - Sou Técnica em Informática <br>
