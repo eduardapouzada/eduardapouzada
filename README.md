@@ -2,7 +2,7 @@
   <tr>
 
 <img src="assets/img.png" alt="ilustração de um computador" width="500px" align="right">
-
+<br><br>
 <p align="left"> 
 👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
 🎓 - Sou Técnica em Informática <br>
