@@ -31,4 +31,4 @@
 </p>
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardapouzada&theme=elegant&border_radius=6.7&locale=pt_BR&card_width=700&card_height=220" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardapouzada&theme=elegant&border_radius=6.7&locale=pt_BR&card_width=80%&card_height=190" alt="GitHub Streak" /></a>
