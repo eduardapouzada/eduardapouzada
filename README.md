@@ -30,4 +30,5 @@
   <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=eduardapouzada&theme=elegant&border_radius=6.7&locale=pt_BR&card_width=700&card_height=220)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardapouzada&theme=elegant&border_radius=6.7&locale=pt_BR&card_width=700&card_height=220" alt="GitHub Streak" /></a>
