@@ -32,3 +32,9 @@
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardapouzada&theme=python-dark&border_radius=6.7&locale=pt_BR&card_width=900&card_height=190" alt="GitHub Streak" /></a>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-contribution-grid-snake.svg">
+</picture>
