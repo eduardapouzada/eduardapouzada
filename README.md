@@ -29,4 +29,5 @@
   <a href = "mailto:eduarda.spouzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/eduarda-pouzada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardapouzada&theme=elegant&hide_border=&border_radius=6.7&locale=pt_BR&short_numbers=&card_width=700&card_height=220)](https://git.io/streak-stats)
