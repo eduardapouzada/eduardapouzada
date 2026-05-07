@@ -31,19 +31,16 @@
 </p>
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardapouzada&theme=city-lights&border_radius=6.7&locale=pt_BR&card_width=900&card_height=190" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardapouzada&theme=city-lights&border_radius=6.7&locale=pt_BR&card_width=900&card_height=190" alt="GitHub Streak" /></a> <br>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-snake-dark.svg"
-  />
+    srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-snake-dark.svg"/>
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-snake.svg"
-  />
+    srcset="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-snake.svg"/>
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-snake.svg"
-  />
+    src="https://raw.githubusercontent.com/eduardapouzada/eduardapouzada/output/github-snake.svg"/>
 </picture>
