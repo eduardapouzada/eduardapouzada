@@ -4,8 +4,8 @@
 <img src="assets/img.png" alt="ilustração de um computador" width="410px" align="right">
 <br>
 <p align="left"> 
-👩🏻‍💻 - Olá! Eu me chamo Eduarda. <br>
-🎓 - Sou Técnica em Informática <br>
+👩🏻‍💻 - Olá! Eu me chamo Eduarda! <br>
+🎓 - Sou Técnica em Informática, <br>
 💻 - E estudante de Sistemas de Informação<br>
 </p>
 <br>
