@@ -5,7 +5,8 @@
 <br>
 <p align="left"> 
 👩🏻‍💻 - Olá! Eu sou a Eduarda! <br>
-🎓 - Técnica em Informática, e estudante de Sistema de Informação.<br>
+🎓 - Técnica em Informática.<br>
+🎓 - Estudante de Sistema de Informação.<br>
 💻 - Trabalhando com Desenvolvimento Web e Design Digital.<br>
 🎨 - Amante de tecnologia, design e criação de projetos digitais.<br>
 </p>
