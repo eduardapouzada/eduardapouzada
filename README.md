@@ -4,9 +4,10 @@
 <img src="assets/img.png" alt="ilustração de um computador" width="410px" align="right">
 <br>
 <p align="left"> 
-👩🏻‍💻 - Olá! Eu me chamo Eduarda! <br>
-🎓 - Sou Técnica em Informática, <br>
-💻 - E estudante de Sistemas de Informação.<br>
+👩🏻‍💻 - Olá! Eu sou a Eduarda! <br>
+🎓 - Técnica em Informática, e estudante de Sistema de Informação.<br>
+💻 - Trabalhando com Desenvolvimento Web e Design Digital.<br>
+🎨 - Amante de tecnologia, design e criação de projetos digitais.<br>
 </p>
 <br>
 
